@@ -1,11 +1,11 @@
 # Site settings
 author: Bryan Capitulo
-title: The Road to UX Engineering
+title: The Developers Long Journey
 header-img: img/home-bg.png
 email: bryancapitulo@gmail.com
 copyright_name: Bryan Capitulo
 description: > # this means to ignore newlines until "baseurl:"
-  Why I chose the Software Engineering as a path to UX
+  It's a perilous trek out there. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  BryanChapter
